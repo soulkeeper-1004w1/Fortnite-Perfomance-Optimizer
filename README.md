@@ -1,13 +1,13 @@
 **🎮 Fortnite Perfomance Optimization**
 
 **🌟Core Features**  
-- Real-time monitoring of CPU, GPU, RAM, and I/O utilization  
+- Real-time monitoring of CPU, GPU, RAM  
 - Automatic activation of Windows High-Performance power scheme  
 - Input latency reduction via HID device and display pipeline tuning  
 - GPU scheduling hints using standard DXGI (DirectX 12) interfaces  
 - System-wide Quality of Service (QoS) policies for UDP traffic prioritization  
 - Customizable tuning profiles (High-Performance, Balanced, Media-Focused)  
-- Optional diagnostic logging (disabled by default; collects no personal or application-specific data)  
+- Optional diagnostic logging
 
 **🛠️Usage**  
 Run the configuration utility 
